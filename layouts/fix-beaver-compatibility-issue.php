@@ -1,3 +1,12 @@
+<?php
+/*
+ *
+ * A fix for a compatibility issue between Layouts
+ * and Beaver page builder
+ * YT: tssupp-1417
+ *
+ **/
+
 add_action( 'init', 'fix_beaver' );
 
 function fix_beaver(){
@@ -19,3 +28,4 @@ function fix_beaver(){
         }
     });
 }
+?>

@@ -1,4 +1,13 @@
 <?php
+
+/**
+ *
+ * Creating a custom Cell Layouts with its API
+ * It fetch all attachments from the current post
+ * and display it like a BS carousel
+ *
+ **/
+
 add_action( 'init', 'register_attachments_slider_cell_init' );
         
 function register_attachments_slider_cell_init() {

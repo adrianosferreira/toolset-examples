@@ -2,7 +2,7 @@
 
 /**
  *
- * Creating a custom Cell Layouts with its API
+ * Creating a custom Layouts Cell with its API
  * It fetch all attachments from the current post
  * and display it like a BS carousel
  *

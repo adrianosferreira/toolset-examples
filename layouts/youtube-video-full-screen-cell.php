@@ -1,6 +1,6 @@
 <?php
 /*
- * Youtube vide Cell with fullscreen mode
+ * Youtube video Cell with fullscreen mode
  *
  */
 
